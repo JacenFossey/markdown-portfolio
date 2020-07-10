@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can code *__Python__*, I can code **_C#_** and much more!!!!!!!
